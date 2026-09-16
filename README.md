@@ -82,4 +82,4 @@ graph TD
 - **🔐 Secure Auth**: Bcrypt-verified sessions with per-user quotas (5 queries/user) to prevent API abuse.
 
 ## 🚀 Getting Started
-(Installation steps remain the same...)
+
