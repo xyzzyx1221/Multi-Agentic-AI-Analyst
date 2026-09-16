@@ -85,3 +85,7 @@ graph TD
 
 ## Visit The Live Application
 https://multi-agentic-ai-analyst-system.onrender.com/
+
+## About developer
+Ranveer Raj
+National institute of Technology, Raipur
