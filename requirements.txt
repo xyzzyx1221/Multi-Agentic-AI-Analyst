@@ -1,0 +1,16 @@
+# Core Frameworks
+streamlit==1.37.1
+langgraph==0.2.35
+groq==0.11.0
+
+# Database Connectivity
+psycopg[binary,pool]==3.2.3
+
+# Authentication & Security
+bcrypt==4.2.0
+python-dotenv==1.0.1
+
+# Utilities
+uuid
+json
+typing
